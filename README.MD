@@ -29,3 +29,25 @@ Using 'f'
 <h4>Input Data</h4>
 
     nome = input('Digite o seu nome: ')
+
+## Class 03 - Operators
+
+<h4>Sum</h4>
+
+    sum = num1 + num2
+
+<h4>Subtraction</h4>
+
+    subtraction = num1 - num2
+
+
+<h4>Multiplication</h4>
+
+    multiplication = value3 * value4
+
+<h4>Division</h4>
+
+    division = value5 / valu6
+
+
+

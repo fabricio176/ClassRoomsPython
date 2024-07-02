@@ -23,17 +23,6 @@ age = str(age)
 
 print(type(height))
 
-# Creating a Object in python
-class Pessoa:
-    def __init__(self, name, age, weight, height, instructor):
-        self.name = name
-        self.age = age
-        self.weight = weight
-        self.height = height
-        self.instructor = instructor
-        
-pessoa1 = Pessoa('Fabas', 22, 73, 1.73, False)
 
-print(pessoa1.name)
         
 
