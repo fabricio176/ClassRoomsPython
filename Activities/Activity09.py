@@ -35,6 +35,7 @@ while True:
             os.system('cls')
     elif option == 1 or 3:
         ingresso = secrets.token_hex(8)
+        
         print(f'Você está apto para assistir {movieList[option-1].strip()}')
         print(f'{name}, o seu ingresso é {ingresso}')
         break

@@ -43,7 +43,8 @@ While is a loop that repeat a algorithm while one determined condition is true.
         print('Contando...')
 
 <kbd>pass - skip the pad code<kbd><br>
-<kbd>continue - continue the code<kbd>
+<kbd>continue - continue the code<kbd><br>
+<KBD>While True - is a infinit loop</KBD>
 
     while True:
         nome = input('Informe o seu nome ou deixe em branco para sair)
@@ -51,4 +52,13 @@ While is a loop that repeat a algorithm while one determined condition is true.
         if nome != '':
             idade = int(input(Informe sua idade))
 
-            if idade<> 18
+            if idade >= 18
+    
+## Class 08 - For loop
+
+    for n in range(5)
+        print(n)
+
+    nome = ['joao', 'lucas', 'fabas', 'jonatas', 'cone']
+    for n in nome:
+        print(n)
